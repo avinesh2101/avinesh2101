@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align-"center">Hi there ,I am Avinesh Pandey 👋</h1>
+- 🔭 I’m currently working on a fully fledged  Ecommerce website.
+- 🌱 I’m currently learning competitive programming , Machine learning and Deep Learning.
+- 💬 You can ask me to help you in  MERN stack ,C++,Python.
