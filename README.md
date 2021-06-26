@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- # https://avineshpandey.netlify.app/ -->
-# Portfolio (https://avineshpandey.netlify.app/)
+# [Portfolio](https://avineshpandey.netlify.app/)
 <!--
 **avinesh2101/avinesh2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
