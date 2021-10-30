@@ -23,10 +23,12 @@
 <hr>
 <!-- <p align="left"> <a href="https://twitter.com/pandey_avinesh" target="blank"><img src="https://img.shields.io/twitter/follow/pandey_avinesh?logo=twitter&style=for-the-badge" alt="pandey_avinesh" /></a> </p> -->
 
-<h3 align="center">Connect with me:</h3>
+
+
+
+         
+ <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/pandey_avinesh" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="pandey_avinesh" height="50" width="50" /></a> 
 <a href="https://www.linkedin.com/in/avineshpandey/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>
 </p>
-
-<hr>
