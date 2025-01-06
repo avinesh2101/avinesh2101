@@ -6,7 +6,6 @@
         A Full-Stack web developer currently pursuing my engineering from NIT Jalandhar. 
          <br>
   
-###                              [Portfolio](https://avineshpandey.netlify.app/)
 
 <!-- **avinesh2101/avinesh2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
