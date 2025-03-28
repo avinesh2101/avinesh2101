@@ -3,7 +3,7 @@
          height="45"
          width="45" />,I am Avinesh Pandey</h1>
     <h5 align="center">
-        A Full-Stack web developer currently pursuing my engineering from NIT Jalandhar. 
+        A Full-Stack web developer currently working with MERN, Spring Boot and AI. 
          <br>
   
 
